@@ -1,0 +1,33 @@
+.a{
+background-color: cyan;
+height:65px;
+color: black; 
+width:100%;
+text-align: right;
+border: solid black 1px;
+
+}
+
+.b{
+	background-color: #5de65e;
+	height: 65px;
+	color: black;
+	text-align: center;
+	border: solid black 1px;
+}
+
+.c{
+	background-color: orange;
+	height: 65px;
+	color: white;
+	text-align: center;
+	border: solid black 1px;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 15px;
+}
